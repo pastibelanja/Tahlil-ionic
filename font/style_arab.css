@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'amiri_quranregular';
+    src: url('../font/amiri-quran-webfont.eot');
+    src: url('../font/amiri-quran-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/amiri-quran-webfont.woff2') format('woff2'),
+         url('../font/amiri-quran-webfont.woff') format('woff'),
+         url('../font/amiri-quran-webfont.ttf') format('truetype'),
+         url('../font/amiri-quran-webfont.svg#amiri_quranregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.arab{
+	font-family: 'amiri_quranregular';
+	font-weight: normal;
+    font-size: 22px;
+    line-height: 1.5;
+}
